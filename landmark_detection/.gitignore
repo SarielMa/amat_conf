@@ -1,0 +1,15 @@
+__pycache__/
+runs/
+dataset/
+*.sh
+.vscode/
+*.png
+*.pth
+*.csv
+*.pdf
+*.yaml
+*.yaml
+*.pdf
+*.pdf
+*.npy
+*.lnk
