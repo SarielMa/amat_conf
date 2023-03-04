@@ -1,0 +1,5 @@
+train: bcc/images/train
+val: bcc/images/valid
+test: bcc/images/show
+nc: 3 
+names: ['Platelets', 'RBC', 'WBC']
